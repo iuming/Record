@@ -10,3 +10,4 @@ A record of some simple, common, and easy to forget definitions or principles
 [扁平化设计](https://github.com/iuming/Record/blob/master/%E6%89%81%E5%B9%B3%E5%8C%96%E8%AE%BE%E8%AE%A1.md)                       
 [孟菲斯风格](https://github.com/iuming/Record/blob/master/%E5%AD%9F%E8%8F%B2%E6%96%AF%E9%A3%8E%E6%A0%BC.md)               
 [莫兰迪色调](https://github.com/iuming/Record/blob/master/%E8%8E%AB%E5%85%B0%E8%BF%AA%E8%89%B2%E8%B0%83.md)                 
+[男性内裤指数](https://github.com/iuming/Record/blob/master/MUI.md)
